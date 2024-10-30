@@ -1,13 +1,14 @@
 ## Olá! Eu sou o José Carlos 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-carlos-761a2b281/)
-
+<p align="center">
+    <a href="https://www.linkedin.com/in/jos%C3%A9-carlos-761a2b281/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+</p>
 
 ## 👩‍💻 Sobre mim
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas, estou em busca da minha primeira oportunidade na área. Tenho paixão por tecnologia e gosto de colaborar em equipes, compartilhar ideias e aprender com outros profissionais, além de continuar estudando e aprimorando minhas habilidades. Já desenvolvo projetos em Python, Jupyter notebook, html e começando MySQL e Java.
-
-
 
 ![José Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Josecarlos9021&show_icons=true&theme=radical)
 
