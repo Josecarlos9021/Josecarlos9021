@@ -8,7 +8,7 @@
 
 ## 👩‍💻 Sobre mim
 
-Eu sou um programador ousado com conhecimento em Python, MySQL, Azure, react e Java💡. Eu estou finalizando minha formação em Análise e Desenvolvimento de Sistemas pela Uninassau 💻. Eu gosto de colaborar em equipes, compartilhar ideias e aprender com outros profissionais, além de continuar estudando e aprimorando minhas habilidades.
+Eu sou um programador ousado com conhecimento em Python, MySQL, Azure, react e Java 💻💡. Eu estou finalizando minha formação em Análise e Desenvolvimento de Sistemas pela Uninassau 🎓. Eu gosto de colaborar em equipes, compartilhar ideias e aprender com outros profissionais, além de continuar estudando e aprimorando minhas habilidades.
 
 ![José Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Josecarlos9021&show_icons=true&theme=radical)
 
