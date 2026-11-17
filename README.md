@@ -1,7 +1,7 @@
 ## Olá! Eu sou o José Carlos 👋
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/joseC3%A9-carlos-761a2b281/" target="_blank">
+    <a href="https://www.linkedin.com/in/jose-carlos-761a2b281/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
 </p>
